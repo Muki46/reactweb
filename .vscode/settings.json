@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7e5209f5-fcdd-49b4-a600-dec5831f9094/resourceGroups/BOHSOL_DEV_QC_RG/providers/Microsoft.Web/sites/etadev",
+    "appService.deploySubpath": "."
+}
